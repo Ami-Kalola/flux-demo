@@ -141,8 +141,8 @@ spec:
       env: []
       envFrom: []
       image: null
-      maxReplicaCount: 2
-      minReplicaCount: 2
+      maxReplicaCount: 1
+      minReplicaCount: 1
       name: worker
       nodeSelector: {}
       resources: {}
